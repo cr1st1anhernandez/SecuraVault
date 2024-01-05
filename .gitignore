@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Linter
+.eslintrc.json
+.prettierrc.json
